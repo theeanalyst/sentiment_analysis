@@ -1,5 +1,4 @@
-# sentiment_analysis
-Sentiment analysis plays a crucial role in understanding public opinions, and leveraging powerful tools like Hugging Face Transformers allows us to build robust models. In this article, we'll walk through a comprehensive sentiment analysis pipeline using various Python libraries, including Hugging Face Transformers.
+# Sentiment analysis plays a crucial role in understanding public opinions, and leveraging powerful tools like Hugging Face Transformers allows us to build robust models. In this article, we'll walk through a comprehensive sentiment analysis pipeline using various Python libraries, including Hugging Face Transformers.
 
 Prerequisites: Setting Up the Environment
 Before we start, we need to install the necessary Python packages. Run the following commands to ensure you have the required libraries:
