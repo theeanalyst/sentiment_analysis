@@ -1,4 +1,4 @@
-# BUILDING A ROBUST SENTIMENT ANALYSIS PIPELINE ADD GRADIO APP DEPLOYMENT WITH HUGGING FACE TRANSFORMERS
+# BUILDING A ROBUST SENTIMENT ANALYSIS PIPELINE AND GRADIO APP DEPLOYMENT WITH HUGGING FACE TRANSFORMERS
 Sentiment analysis plays a crucial role in understanding public opinions, and leveraging powerful tools like Hugging Face Transformers allows us to build robust models. In this article, we'll walk through a comprehensive sentiment analysis pipeline using various Python libraries, including Hugging Face Transformers.
 
 # Prerequisites: Setting Up the Environment
